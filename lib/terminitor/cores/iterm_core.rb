@@ -186,7 +186,7 @@ module Terminitor
       terminal_process.menu_bars.first
     end
 
-    def call_ui_action(menu, submenu = nil, action)
+    def call_ui_action(menu, submenu = nil, action = nil)
       menu = iterm_menu.menu_bar_items[menu].menus[menu]
       if submenu
         menu = menu.menu_items[submenu].menus[submenu]

@@ -421,6 +421,7 @@ Thanks to the following people for their contributions so far:
  * Kyriacos Souroullas ([kyriacos](https://github.com/kyriacos) for removing params to support generic commands
  * Jerry Cheung ([jch](https://github.com/jch)) for adding ignore for emac backups
  * Michael Klein ([LevelbossMike](https://github.com/LevelbossMike)) for adding iTerm Pane support
+ * Marshall Yount ([marshally](https://github.com/marshally)) for improving 1.8.7 compatibility in iTerm
 
 Acknowledgements
 -----------------
